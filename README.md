@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephaizawa&label=Profile%20views&color=0e75b6&style=flat" alt="josephaizawa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephaizawa" alt="josephaizawa" /></a> </p>
-
 - 🔭 I’m currently working on [QuickEncounter](https://github.com/josephaizawa/capstone-front-end)
 
 - 🌱 I’m currently learning **TypeScript, GraphQL, and how to be a Dad!**
