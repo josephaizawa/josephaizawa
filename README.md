@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [QuickEncounter](https://github.com/josephaizawa/capstone-front-end)
 
-- 🌱 I’m currently learning **TypeScript, GraphQL, and how to be a Dad!**
+- 🌱 I’m currently learning **TypeScript, Python, and how to be a Dad!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/josephaizawa](https://github.com/josephaizawa)
 
