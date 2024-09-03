@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/josephaizawa](https://github.com/josephaizawa)
 
-- 💬 Ask me about **HTML, CSS, Sass, JavaScript, REST APIs, React JS, Node.js, MySQL**
+- 💬 Ask me about **HTML, CSS, Sass, JavaScript, Python, REST APIs, React JS, Node.js, MySQL**
 
 - 📫 How to reach me **josephaizawa@gmail.com**
 
